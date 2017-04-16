@@ -1,0 +1,11 @@
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.exe
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.xml
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.pdb
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\bin\Debug\BadUINO.exe
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\bin\Debug\BadUINO.pdb
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\bin\Debug\BadUINO.xml
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.Form1.resources
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.Resources.resources
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.vbproj.GenerateResource.Cache
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.upload.resources
+C:\Users\kagan\Desktop\BadUINO Payload\BadUINO\obj\Debug\BadUINO.vbprojResolveAssemblyReference.cache
